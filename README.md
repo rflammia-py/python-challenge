@@ -1,7 +1,7 @@
 # python-challenge
 
 ## Background
-I used Python and Pandas to analyzse financial records and election polling data. 
+I used Python and Pandas to analyze financial records and election polling data. 
 
 
 ## PyBank
